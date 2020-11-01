@@ -1,0 +1,14 @@
+{
+  "name": "react-codegen",
+  "version": "1.0.0",
+  "description": "CLI tools for code generation TypeScript files",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "bin/react-codegen.js",
+  "author": "Roman Poleguev",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "6.2.0"
+  }
+}
