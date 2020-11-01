@@ -1,6 +1,6 @@
 {
   "name": "react-codegen-tool",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CLI tools for code generation React components by templates",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
